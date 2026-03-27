@@ -66,7 +66,7 @@ expected solution.
 
 | Git Push ✅ | Grader Result ✅ |
 |---|---|
-| ![Git Push](git_push.png.jpeg) | ![Grader](grader.png) |
+| ![Git Push](Data%20Engineering%20Week%201/git_push.jpeg) | ![Grader](Data%20Engineering%20Week%201/grader.png) |
 
 </div>
 
