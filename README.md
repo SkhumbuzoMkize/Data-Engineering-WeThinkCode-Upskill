@@ -64,7 +64,7 @@ expected solution.
 
 <div align="center">
 
-| Git Push ✅ | Grader Result ✅ |
+| Git Push  | Grader Result  |
 |---|---|
 | ![Git Push](Data%20Engineering%20Week%201/git_push.jpeg) | ![Grader](Data%20Engineering%20Week%201/grader.png) | 
 
@@ -75,7 +75,7 @@ expected solution.
 
 <div align="center">
 
-| Extract Function ✅ | Pipeline Results ✅ |
+| Extract Function  | Pipeline Results  |
 |---|---|
 | ![Extract](Data%20Engineering%20Week%201/extract.png) | ![Jupyter](Data%20Engineering%20Week%201/Jupyter.png) |
 
