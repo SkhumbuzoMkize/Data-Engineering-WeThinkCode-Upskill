@@ -68,8 +68,15 @@ expected solution.
 |---|---|
 | ![Git Push](Data%20Engineering%20Week%201/git_push.jpeg) | ![Grader](Data%20Engineering%20Week%201/grader.png) | 
 
+
+</div>
+
+<div align="center">
+
+| Juypter ✅ |  |
 |---|---|
-| ![Jupyter](Data%20Engineering%20Week%201/Jupyter.png) |
+| ![Juypter](Data%20Engineering%20Week%201/Juypter.png) |
+
 
 </div>
 
