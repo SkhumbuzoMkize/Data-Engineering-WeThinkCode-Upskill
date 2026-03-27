@@ -8,7 +8,7 @@ starting 23 March 2026.
 
 ---
 
-## Week 1 — ETL Pipeline 🔄
+## Week 1 — ETL Pipeline 
 
 ### What I Built
 A basic ETL (Extract, Transform, Load) pipeline that 
@@ -66,7 +66,7 @@ expected solution.
 
 | Git Push ✅ | Grader Result ✅ |
 |---|---|
-| ![Git Push](Data Engineering Week 1/git_push.png.jpeg) | ![Grader](grader.png) |
+| ![Git Push](git_push.png.jpeg) | ![Grader](grader.png) |
 
 </div>
 
