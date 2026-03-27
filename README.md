@@ -73,13 +73,11 @@ expected solution.
 
 <div align="center">
 
-| Juypter ✅ |  |
-|---|---|
-| ![Juypter](Data%20Engineering%20Week%201/Juypter.png) |
-
+| Jupyter Notebook ✅ |
+|---|
+| ![Jupyter](Data%20Engineering%20Week%201/Jupyter.png) |
 
 </div>
-
 ---
 
 ## Programme Info
