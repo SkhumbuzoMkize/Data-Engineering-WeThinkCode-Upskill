@@ -1,10 +1,5 @@
 # Data Engineering - WeThinkCode_ Upskill 2026
-### Student: Skhumbuzo Jabulani Mkize
 
-## About
-This repository contains all practical work completed 
-during the WeThinkCode_ Data Engineering Upskill Programme 
-starting 23 March 2026.
 
 ---
 
@@ -80,8 +75,4 @@ expected solution.
 | ![Extract](Data%20Engineering%20Week%201/extract.png) | ![Jupyter](Data%20Engineering%20Week%201/Jupyter.png) |
 
 </div>
----
 
-```
-
----
