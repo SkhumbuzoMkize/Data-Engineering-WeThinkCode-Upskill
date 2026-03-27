@@ -71,11 +71,13 @@ expected solution.
 
 </div>
 
+<br>
+
 <div align="center">
 
-| Jupyter Notebook ✅ | Extract Function ✅ |
+| Extract Function ✅ | Pipeline Results ✅ |
 |---|---|
-| ![Jupyter](Data%20Engineering%20Week%201/Jupyter.png) | ![Extract](Data%20Engineering%20Week%201/extract.png) |
+| ![Extract](Data%20Engineering%20Week%201/extract.png) | ![Jupyter](Data%20Engineering%20Week%201/Jupyter.png) |
 
 </div>
 ---
