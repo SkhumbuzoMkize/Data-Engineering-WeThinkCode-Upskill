@@ -73,9 +73,9 @@ expected solution.
 
 <div align="center">
 
-| Jupyter Notebook ✅ |
-|---|
-| ![Jupyter](Data%20Engineering%20Week%201/Jupyter.png) |
+| Jupyter Notebook ✅ | Extract Function ✅ |
+|---|---|
+| ![Jupyter](Data%20Engineering%20Week%201/Jupyter.png) | ![Extract](Data%20Engineering%20Week%201/extract.png) |
 
 </div>
 ---
