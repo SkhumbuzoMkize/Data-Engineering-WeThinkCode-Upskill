@@ -66,7 +66,10 @@ expected solution.
 
 | Git Push ✅ | Grader Result ✅ |
 |---|---|
-| ![Git Push](Data%20Engineering%20Week%201/git_push.jpeg) | ![Grader](Data%20Engineering%20Week%201/grader.png) |
+| ![Git Push](Data%20Engineering%20Week%201/git_push.jpeg) | ![Grader](Data%20Engineering%20Week%201/grader.png) | 
+
+|---|---|
+| ![Jupyter](Data%20Engineering%20Week%201/Jupyter.png) |
 
 </div>
 
