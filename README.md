@@ -11,7 +11,7 @@ starting 23 March 2026.
 ## Week 1 — ETL Pipeline 
 
 ### What I Built
-A basic ETL (Extract, Transform, Load) pipeline that 
+In this assessment I have learned about the basic of ETL (Extract, Transform, Load) pipeline that 
 processes grocery store sales data. The pipeline reads 
 two CSV files (orders and users), joins them together, 
 aggregates the total purchases per gender per day, 
@@ -82,11 +82,6 @@ expected solution.
 </div>
 ---
 
-## Programme Info
-- Start Date: 23 March 2026
-- Institution: WeThinkCode_
-- Elective: Data Engineering
-- Week 1 Score: 5/5
 ```
 
 ---
