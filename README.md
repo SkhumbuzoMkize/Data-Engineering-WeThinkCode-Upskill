@@ -76,3 +76,14 @@ expected solution.
 
 </div>
 
+<br>
+
+## Analyzing Unstructured Data with AI — PartyRock & Amazon Bedrock
+
+<table>
+  <tr>
+    <td><img width="600" height="300" alt="Unstructured Data" src="https://github.com/user-attachments/assets/174a009f-e39b-48ca-9ee3-6777dce66379"  style="margin-right: 10px;" width="300"/></td>
+    <td><img width="1918" height="872" alt="Structured Data" src="https://github.com/user-attachments/assets/625b60c9-c8c9-4aed-926d-f30a78493640"   style="margin-right: 10px;" width="300"/></td>
+    
+  </tr>
+</table
