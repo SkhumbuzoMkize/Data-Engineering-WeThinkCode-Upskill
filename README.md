@@ -79,6 +79,11 @@ expected solution.
 <br>
 
 ## Analyzing Unstructured Data with AI — PartyRock & Amazon Bedrock
+<br>
+This project demonstrates how to use AI-powered tools to analyze raw, unstructured CSV datasets extracting meaningful insights without writing a single line of code. Using PartyRock's Analyze Data feature, powered by Amazon Bedrock, I uploaded real-world datasets, queried them using natural language, and generated analysis tables.
+This is a practical example of how Generative AI is transforming data engineering which enabling a faster exploratory data analysis (EDA) and insight generation from unstructured data sources.
+
+<br>
 
 <table>
   <tr>
