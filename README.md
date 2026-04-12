@@ -97,7 +97,7 @@ This is a practical example of how Generative AI is transforming data engineerin
 
 ## Database Normalisation to Third Normal Form & ERD Design.
 <br>
-Week 3 I learned about database normalisation up to Third Normal Form (3NF) and how it improves data integrity by reducing redundancy. I worked on transforming raw data into structured tables and understanding relationships between entities. I also created an Entity Relationship Diagram (ERD) using Google Drawings to visually represent the database design. This helped me better understand how real-world database systems are structured.
+In week 3 I explored database normalisation up to Third Normal Form (3NF), focusing on improving data integrity by reducing redundancy. I transformed raw data into structured tables and gained a deeper understanding of relationships between entities. I also created an Entity Relationship Diagram (ERD) using Google Drawings to visualise the database design. Additionally, I worked with Docker Desktop and PostgreSQL to run SQL queries and interact with the database in a real development environment.
 
 <br>
 
@@ -105,6 +105,16 @@ Week 3 I learned about database normalisation up to Third Normal Form (3NF) and 
   <tr>
     <td><img width="600" height="300" alt="PostgreSQL" src="https://github.com/user-attachments/assets/a4c0b09b-ff2c-40b6-ae29-26947d78229b"  style="margin-right: 10px;" width="300"/></td>
     <td><img width="600" height="300" alt="PostgreSQL2" src="https://github.com/user-attachments/assets/03e6e05d-1a15-4364-ad28-f18b3c8a8578"  style="margin-right: 10px;" width="300"/></td>
+    
+  </tr>
+</table
+   
+<br>
+
+<table>
+  <tr>
+    <td><img width="600" height="300" alt="Docker work" src="https://github.com/user-attachments/assets/d0384c78-3f3a-483e-97bd-69e67e568d19"    style="margin-right: 10px;" width="300"/></td>
+    <td><img width="600" height="300" alt="ERD" src="https://github.com/user-attachments/assets/0ad048da-3ede-49ca-9096-279603be9fbc"    style="margin-right: 10px;" width="300"/></td>
     
   </tr>
 </table
