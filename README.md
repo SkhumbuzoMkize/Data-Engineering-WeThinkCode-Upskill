@@ -92,3 +92,19 @@ This is a practical example of how Generative AI is transforming data engineerin
     
   </tr>
 </table
+
+<br>
+
+## Database Normalisation to Third Normal Form & ERD Design.
+<br>
+Week 3 I learned about database normalisation up to Third Normal Form (3NF) and how it improves data integrity by reducing redundancy. I worked on transforming raw data into structured tables and understanding relationships between entities. I also created an Entity Relationship Diagram (ERD) using Google Drawings to visually represent the database design. This helped me better understand how real-world database systems are structured.
+
+<br>
+
+<table>
+  <tr>
+    <td><img width="600" height="300" alt="PostgreSQL" src="https://github.com/user-attachments/assets/a4c0b09b-ff2c-40b6-ae29-26947d78229b"  style="margin-right: 10px;" width="300"/></td>
+    <td><img width="600" height="300" alt="PostgreSQL2" src="https://github.com/user-attachments/assets/03e6e05d-1a15-4364-ad28-f18b3c8a8578"  style="margin-right: 10px;" width="300"/></td>
+    
+  </tr>
+</table
